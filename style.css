@@ -1,4 +1,7 @@
 /* Layout */
+body {
+    background-color: aqua;
+}
 .main {
     display: flex;
     padding: 2em;
