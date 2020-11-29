@@ -1,6 +1,6 @@
 /* Layout */
 body {
-    background-color: aqua;
+    background-color: rgb(253, 255, 255);
 }
 .main {
     display: flex;
